@@ -29,7 +29,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "TexasToast\\LinearSocialite\\LinearExtendSocialite"
+                "TexasToast33\\LinearSocialite\\LinearExtendSocialite"
             ]
         }
     }
